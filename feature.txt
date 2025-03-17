@@ -1,0 +1,1 @@
+i learnt how to initialize a git repository, add, commit and push my changes. I also learnt basic htlm and use some extensions on vs code like live server and prettier
